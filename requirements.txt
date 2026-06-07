@@ -1,5 +1,4 @@
 google-auth==2.53.0
 google-genai==2.7.0
-mysql-connector-python==9.7.0
-sql==2022.4.0
+supabase
 streamlit==1.57.0
